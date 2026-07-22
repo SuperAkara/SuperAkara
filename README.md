@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **oliwia.pawledzio@onet.pl**
 
-- 📄 Know about my experiences [CV](CV)
-
-- ⚡ Fun fact **I'm a fast learner!**
+- ⚡ Fun fact **I love cats ^^**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
