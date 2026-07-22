@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Oliwia</h1>
-<h3 align="center">A Computer Science student whose passion is software development 😎</h3>
-
+<h3 align="center">A Computer Science student from Poland, whose passion is software development 😎</h3>
+<h3 align ="center"> I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚 </h3>h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superakara&label=Profile%20views&color=0e75b6&style=flat" alt="superakara" /> </p>
 
 
