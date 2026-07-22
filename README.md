@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Godot, Wordpress and AI learning**
 
-- 👯 I’m looking to collaborate on **small game jam projects or web dev tools**
+- 👯 I’m looking to collaborate on **small game jam projects or your ideas**
 
 - 💬 Ask me about **my projects or anything!**
 
